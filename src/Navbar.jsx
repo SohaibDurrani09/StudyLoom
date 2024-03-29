@@ -3,6 +3,7 @@ import './Navbar.css'
 import './index.css'
 import { Link } from "react-scroll";
 import logo from './assets/logo.png';
+import menu from './assets/menu-icon.png';
 
 function Navbar() {
   const [sticky, setSticky] = useState(false);
@@ -32,7 +33,7 @@ function Navbar() {
     <Link spy={true} smooth={true} to='testimonials' offset={-220}><li>Testimonials <span></span></li></Link>
     <Link spy={true} smooth={true} to='contact' offset={-220}><button className='button n-button'> Contact Us</button></Link>
     </ul>
-    <img src="../src/assets/menu-icon.png" alt="" className='menu-icon' onClick={toggleMenu}/>
+    <img src={menu} alt="" className='menu-icon' onClick={toggleMenu}/>
     </div>
 
     </nav>
