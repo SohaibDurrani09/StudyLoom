@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/studyloom/static/css/main.114eca91.css",
+    "main.js": "/studyloom/static/js/main.5af356f9.js",
+    "static/js/453.3efd4761.chunk.js": "/studyloom/static/js/453.3efd4761.chunk.js",
+    "static/media/clg.mp4": "/studyloom/static/media/clg.6803b641f69a9e26e9d5.mp4",
+    "static/media/about.png": "/studyloom/static/media/about.ae79f7c4ba002987bed7.png",
+    "static/media/program-3.png": "/studyloom/static/media/program-3.73a816ab56c0a6e457d6.png",
+    "static/media/program-1.png": "/studyloom/static/media/program-1.a77b437944c963838cea.png",
+    "static/media/gallery-3.png": "/studyloom/static/media/gallery-3.cc599987b9e13cee8fcc.png",
+    "static/media/gallery-4.png": "/studyloom/static/media/gallery-4.2d4f350efbdf6fc200a8.png",
+    "static/media/gallery-1.png": "/studyloom/static/media/gallery-1.901e63cc3af8b9273073.png",
+    "static/media/gallery-2.png": "/studyloom/static/media/gallery-2.cb423b37437ac0ff6f31.png",
+    "static/media/hero.jpeg": "/studyloom/static/media/hero.2e14e638b061dcd11c60.jpeg",
+    "static/media/user-1.jpeg": "/studyloom/static/media/user-1.61f13f1bd56e818bba0e.jpeg",
+    "static/media/user-4.png": "/studyloom/static/media/user-4.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/studyloom/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/user-2.png": "/studyloom/static/media/user-2.1f46bb883fe387830efd.png",
+    "static/media/program-2.avif": "/studyloom/static/media/program-2.660bee4de8017c7e588e.avif",
+    "index.html": "/studyloom/index.html",
+    "main.114eca91.css.map": "/studyloom/static/css/main.114eca91.css.map",
+    "main.5af356f9.js.map": "/studyloom/static/js/main.5af356f9.js.map",
+    "453.3efd4761.chunk.js.map": "/studyloom/static/js/453.3efd4761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.114eca91.css",
+    "static/js/main.5af356f9.js"
+  ]
+}
