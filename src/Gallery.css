@@ -1,0 +1,41 @@
+.gallery{
+    margin: 80px auto;
+    width: 90%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    /* text-align: center; */
+}
+.imgs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.imgs img{
+    width: 23%;
+    border-radius: 10px;
+}
+@media (max-width: 800px){
+    .gallery{
+        
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .imgs {
+        flex-wrap: wrap; /* Allow images to wrap onto new lines */
+        justify-content: center; /* Center images horizontally */
+    }
+
+    .imgs img {
+        width: calc(48% - 10px); /* Calculate width with margin and border */
+        margin-bottom: 25px;
+        margin-right: 5px; /* Add margin between images */
+        margin-left: 5px; /* Add margin between images */
+    }
+
+    .imgs img:last-child {
+        margin-right: 0; /* Remove margin from the last image in each row */
+    }
+    
+}
